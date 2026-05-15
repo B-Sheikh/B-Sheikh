@@ -9,18 +9,6 @@
 </div>
 
 
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-Sheikh&show_icons=true&theme=transparent&title_color=00FFAA&icon_color=00D4FF&text_color=FFFFFF&border_color=00FFAA&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sheikh&layout=compact&theme=transparent&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF&bg_color=00000000"/>
-
-</div>
-
----
-
 # GitHub Streak
 
 <div align="center">
