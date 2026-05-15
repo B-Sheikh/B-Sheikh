@@ -1,10 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh+%F0%9F%91%8B;Computer+Science+Student;AI%2FML+%7C+DevOps+%7C+Full-Stack+%7C+Apps;Learning+in+Public+%F0%9F%9A%80;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh;Computer+Science+Student;AI%2FML+%7C+DevOps+%7C+Full-Stack+%7C+Apps;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-
-### 💻 `while(alive) { eat(); code(); sleep(); repeat(); }`
+### `while(alive) { eat(); code(); sleep(); repeat(); }`
 
 <img src="https://komarev.com/ghpvc/?username=B-Sheikh&style=for-the-badge&color=00ffaa" />
 
@@ -12,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 ```cpp
 class Developer {
@@ -28,40 +26,40 @@ class Developer {
 
     void currentStatus() {
 
-        cout << "🚀 Learning in public" << endl;
-        cout << "☕ Turning coffee into commits" << endl;
-        cout << "🐛 Creating bugs professionally" << endl;
-        cout << "🌙 Building random ideas at 2AM" << endl;
+        cout << "Learning in public" << endl;
+        cout << "Turning coffee into commits" << endl;
+        cout << "Creating bugs professionally" << endl;
+        cout << "Building random ideas at 2AM" << endl;
     }
 };
 ```
 
 <div align="center">
 
-💀 Surviving on caffeine and bad documentation  
-🚀 Building projects instead of touching grass  
-🐛 50% coding | 50% fixing what I coded  
-📚 Learning in public because suffering loves documentation  
+Surviving on caffeine and bad documentation  
+Building projects instead of touching grass  
+50% coding | 50% fixing what I coded  
+Learning in public because suffering loves documentation  
 
 </div>
 
 ---
 
-# 🚀 Current Projects
+# Current Projects
 
 <div align="center">
 
-| 🚀 Project | 💡 Description |
+| Project | Description |
 |---|---|
-| 🌿 **pocket-dhamma** | Mindfulness & productivity project |
-| ⚡ **leetcode-cpp** | DSA grinding arc |
-| 🛠️ **devops-lab** | Breaking servers to understand servers |
+| **pocket-dhamma** | Mindfulness & productivity project |
+| **leetcode-cpp** | DSA grinding arc |
+| **devops-lab** | Breaking servers to understand servers |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -73,7 +71,7 @@ class Developer {
 
 ---
 
-# ⚒️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -91,7 +89,7 @@ class Developer {
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -103,7 +101,7 @@ class Developer {
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -113,7 +111,7 @@ class Developer {
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -123,7 +121,7 @@ class Developer {
 
 ---
 
-# 🐍 Snake Eating My Contributions
+# Snake Contribution Animation
 
 <div align="center">
 
@@ -133,7 +131,7 @@ class Developer {
 
 ---
 
-# 🎮 3D Contribution Graph
+# 3D Contribution Graph
 
 <div align="center">
 
@@ -143,7 +141,7 @@ class Developer {
 
 ---
 
-# 🧩 GitHub Summary
+# GitHub Summary
 
 <div align="center">
 
@@ -153,7 +151,7 @@ class Developer {
 
 ---
 
-# ☕ Developer Fuel
+# Developer Fuel
 
 <div align="center">
 
@@ -168,7 +166,7 @@ Bugs:        ████████████   ∞
 
 ---
 
-# 💀 Random Dev Quote
+# Random Dev Quote
 
 <div align="center">
 
@@ -180,7 +178,7 @@ Bugs:        ████████████   ∞
 
 ---
 
-# ⚡ Fun Fact
+# Fun Fact
 
 <div align="center">
 
@@ -191,129 +189,7 @@ Bugs:        ████████████   ∞
 
 ---
 
-# 🛠️ GitHub Actions Setup
-
-## 🐍 Snake Contribution Animation
-
-Create:
-
-```bash
-.github/workflows/snake.yml
-```
-
-Add:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: B-Sheikh
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-# 🎮 3D Contribution Graph Setup
-
-Create:
-
-```bash
-.github/workflows/profile-3d.yml
-```
-
-Add:
-
-```yaml
-name: 3D Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: B-Sheikh
-
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "generated"
-          git push
-```
-
----
-
-# ✅ Final Setup Steps
-
-1. Create a repository named:
-
-```txt
-B-Sheikh
-```
-
-2. Add:
-```txt
-README.md
-```
-
-3. Paste this entire README
-
-4. Push to GitHub
-
-5. Go to:
-```txt
-Settings → Actions → General
-```
-
-6. Enable:
-```txt
-Read and write permissions
-```
-
-7. Run workflows once manually:
-```txt
-Actions → Run workflow
-```
-
----
-
 <div align="center">
-
-## 🚀 Thanks For Visiting
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00D4FF&height=120&section=footer"/>
 
