@@ -9,21 +9,10 @@
 </div>
 
 
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=B-Sheikh&theme=transparent&border=00FFAA&ring=00D4FF&fire=00FFAA&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
-
 # GitHub Summary
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B-Sheikh&theme=github_dark"/>
-
 </div>
 
 ---
