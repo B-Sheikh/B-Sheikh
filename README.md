@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh;AIDS-QTS-student;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh;AIDS+QTS+Student;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
 
 ### `while(alive) { eat(); code(); sleep(); repeat(); }`
 
@@ -28,21 +28,6 @@
 
 ---
 
-# Developer Fuel
-
-<div align="center">
-
-```txt
-RAM:         ██████████░░   78%
-Coffee:      ████████████   100%
-Motivation:  ██░░░░░░░░░░   12%
-Bugs:        ████████████   ∞
-```
-
-</div>
-
----
-
 # Random Dev Quote
 
 <div align="center">
@@ -53,21 +38,3 @@ Bugs:        ████████████   ∞
 
 </div>
 
----
-
-# Fun Fact
-
-<div align="center">
-
-`I don't always test my code...`
-`but when I do, it's in production.`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:00D4FF&height=120&section=footer"/>
-
-</div>
