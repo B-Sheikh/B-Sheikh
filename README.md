@@ -109,37 +109,6 @@ Learning in public because suffering loves documentation
 
 </div>
 
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B-Sheikh&bg_color=0d1117&color=00FFAA&line=00D4FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# Snake Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/B-Sheikh/B-Sheikh/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
-
-# 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/B-Sheikh/B-Sheikh/main/profile-3d-contrib/profile-night-green.svg" width="100%"/>
-
-</div>
-
----
 
 # GitHub Summary
 
