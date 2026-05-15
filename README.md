@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh;Computer+Science+Student;AI%2FML+%7C+DevOps+%7C+Full-Stack+%7C+Apps;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh;AIDS-QTS-student;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
 
 ### `while(alive) { eat(); code(); sleep(); repeat(); }`
 
