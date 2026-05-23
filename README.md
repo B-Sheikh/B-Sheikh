@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+B-Sheikh (B Abhishek);AIDS+QTS+Student;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey+there%2C+I%27m+B-Sheikh+(B+Abhishek);AIDS+QTS+Student;Learning+in+Public;Debugging+Life+One+Semicolon+At+A+Time" alt="Typing SVG" />
 
 ### `while(alive) { eat(meals_per_day<=1); code(program>=12); sleep(rest<4); repeat(times=Undefined); }`
 
@@ -13,4 +13,3 @@
 > 127 little bugs in the code.”
 
 </div>
-
